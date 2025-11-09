@@ -1,6 +1,7 @@
 > **Source:** Adapted from *Kurose & Ross — Computer Networking: A Top-Down Approach*
 
 ---
+# 1.1 What is the Internet?
 
 ## 🧭 Overview
 
